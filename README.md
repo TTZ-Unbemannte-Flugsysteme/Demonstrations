@@ -1,3 +1,7 @@
+# Main Branch is for DroneManager
+# Master Branch is for Frontend Web_Client-UI
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # DroneControl
 
 A package to connect to and control multiple drones.
